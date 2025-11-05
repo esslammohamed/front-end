@@ -1,0 +1,60 @@
+body{
+    background-color:rgba(0, 0, 0 ,0.9);
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-top: 30px;
+}
+.Home{
+    margin-left: 1000px;
+}
+.Bolg{
+    margin-left: 1000px;
+}
+div h2{
+    color:  rgba(0, 110, 255);
+}
+.div1{
+    display: flex;
+
+}
+h3{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 250px;
+    height: 150px;
+    padding: 15px;
+    padding-left: 20PX;
+    border-radius: 30PX
+}
+.img1{
+    margin: 15px;
+    background-color: rgba(0, 0, 0 ,0.205); 
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+
+    
+}
+.img2{
+    margin: 15px;
+    background-color: rgba(0, 0, 0 ,0.205);
+    width: 300px; 
+    height: 300px;
+    border-radius: 10px;
+}
+.img3{
+    margin: 15px;
+    background-color: rgba(0, 0, 0 ,0.205); 
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
