@@ -1,0 +1,60 @@
+body{
+    background-color:rgba(0, 0, 0 ,0.9);
+    color: white;
+    padding: 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+.Home{
+    margin-left: 1000px;
+
+}
+.esslam{
+    display: flex;
+    justify-content: space-between;
+}
+.vv{
+    margin-right: 250px;
+    margin-top: 10px;
+}
+ h2{
+    color:  rgba(0, 110, 255);
+}
+.pp{
+    width: 500px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-color: rgba(255, 255, 255, 0.233);
+    border-radius: 5px;
+}
+textarea{
+    height: 50px;
+}
+.bb{
+   background-color:  rgba(0, 110, 255);
+   color: white;
+   border: none;
+   height: 40px;
+   width: 130px;
+   border-radius: 7px;
+}
+.zz{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 100x;
+    border-color:  rgba(0, 110, 255); 
+    border-radius: 10px;
+}
+.ooo{
+    background-color: rgba(0, 0, 0 ,0.205); 
+    padding: 15px;
+    border-radius: 15px;
+}

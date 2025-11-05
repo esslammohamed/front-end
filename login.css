@@ -1,0 +1,75 @@
+body{
+    background-color:rgba(0, 0, 0 ,0.9);
+    color: white;
+
+}
+
+
+.nav{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.Home{
+    margin-left: 1000px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: rgba(0, 0, 0 ,0.205); 
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+}
+.button{
+    background-color: rgb(0, 157, 255,0.988);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    margin: 7px;
+    width: 80px;
+    height: 35px;
+    font-size: larger;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: red;
+}
+.name{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+    
+}
+.password{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+    
+}
+h3{
+    padding: 15px;
+}
+a{
+    color: blue;
+}
+.nn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 110px;
+    margin-right: 200px;
+}

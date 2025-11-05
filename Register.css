@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-top: 30px;
+}
+.Home{
+    margin-left: 1000px;
+
+}
+.div2{
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: rgba(0, 0, 0 ,0.205);
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.name{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+
+}
+.email{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+    
+}
+.password{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+}
+.confinm{
+    width: 480px;
+    height: 30px;
+    background-color: black;
+    border-color: rgba(255, 255, 255, 0.308);
+    border-radius: 7px;
+}
+.ch{
+    margin-left: 170px;
+}
+.button{
+    width: 450px;
+    height: 30px;
+    background-color: rgba(0, 110, 255);
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+.we{
+    display: inline-flex;
+}
+.link{
+    margin-top: 22px;
+    color: blue;
+}
